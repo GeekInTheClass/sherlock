@@ -6,10 +6,13 @@
 =======
 ## 인물 소개
 1. Sherlock holmes
+
 ![alt text](http://cfile23.uf.tistory.com/image/2430AF4355CA5A8535DA31)2. John watson
 2. John Watson
+
 ![alt text](http://cfile229.uf.daum.net/image/176FE5424F639BA207CAEC)3. Mycroft Holmes
-3. Microft Homes
+
+3. Mycroft Holmes
 4. Jim Moriarty
 5. Molly Hooper
 
