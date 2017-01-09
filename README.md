@@ -6,8 +6,10 @@
 =======
 ## 인물 소개
 1. Sherlock holmes
-2. John watson
-3. Mycroft Holmes
+![alt text](http://cfile23.uf.tistory.com/image/2430AF4355CA5A8535DA31)2. John watson
+2. John Watson
+![alt text](http://cfile229.uf.daum.net/image/176FE5424F639BA207CAEC)3. Mycroft Holmes
+3. Microft Homes
 4. Jim Moriarty
 5. Molly Hooper
 
@@ -20,3 +22,4 @@
 - 시즌 2
 - 시즌 3
 - 시즌 4
+
