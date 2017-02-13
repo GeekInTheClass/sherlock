@@ -16,16 +16,17 @@ import Foundation
 struct Year {
     var calendarYear:Int
     func isLeapYear() -> Bool {
-        if (calendarYear % 4 == 0) {
-        return true
-    }
-        if (calendarYear % 100 == 0) {
-            return false
-        }
-        if (calendarYear % 400 == 0) {
+        if calendarYear % 4 == 0 {
             return true
-        }else {
-            return false
+            if calendarYear % 100 == 0 {
+                return false
+                if calendarYear % 400 == 0 {
+                    return true
+                }else{
+                    return false
+                }
+                
+            }
+        }
     }
- }
 }
